@@ -15,7 +15,7 @@ Config.useBanks = true -- Enable this to use my banking stuff
 Config.BankBlips = true -- Enable this if you disabled qb-banking and need bank locations
 Config.ATMBlips = false -- Enable this if you are a pyscho and need every ATM to be on the map too
 
-Config.PhoneBank = true -- Set this to false to use the popup payment system FOR CARD/BANK PAYMENTS instead of using phone invoices
+Config.PhoneBank = false -- Set this to false to use the popup payment system FOR CARD/BANK PAYMENTS instead of using phone invoices
 						-- This doesn't affect Cash payments as they by default use confirmation now
 						-- This is helpful for phones that don't support invoices well
 						
